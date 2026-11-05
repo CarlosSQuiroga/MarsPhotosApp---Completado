@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mars Photos</string>
+    <string name="loading">Cargando...</string>
+    <string name="loading_failed">Error de conexión</string>
+    <string name="retry">Reintentar</string>
+    <string name="mars_photo">Foto de Marte</string>
+</resources>
